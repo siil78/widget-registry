@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.503329f7.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/0.503329f7.chunk.js",
+    "static/js/0.503329f7.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/0.503329f7.chunk.js.map",
+    "static/js/1.4710d48e.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/1.4710d48e.chunk.js",
+    "static/js/1.4710d48e.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/1.4710d48e.chunk.js.map",
+    "static/js/2.b7d8e126.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/2.b7d8e126.chunk.js",
+    "static/js/2.b7d8e126.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/2.b7d8e126.chunk.js.map",
+    "main.css": "/widget-registry-boilerplate/catalog/sandbox/static/css/main.40e26187.chunk.css",
+    "main.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/main.d72fe67f.chunk.js",
+    "main.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/main.d72fe67f.chunk.js.map",
+    "runtime-main.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/runtime-main.5912e1da.js",
+    "runtime-main.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/runtime-main.5912e1da.js.map",
+    "static/js/5.7ce5c2a6.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/5.7ce5c2a6.chunk.js",
+    "static/js/5.7ce5c2a6.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/5.7ce5c2a6.chunk.js.map",
+    "static/js/6.c0159312.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/6.c0159312.chunk.js",
+    "static/js/6.c0159312.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/6.c0159312.chunk.js.map",
+    "static/js/7.b6fab173.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/7.b6fab173.chunk.js",
+    "static/js/7.b6fab173.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/7.b6fab173.chunk.js.map",
+    "static/js/8.e5b9cd62.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/8.e5b9cd62.chunk.js",
+    "static/js/8.e5b9cd62.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/8.e5b9cd62.chunk.js.map",
+    "static/js/9.fa87d9cf.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/9.fa87d9cf.chunk.js",
+    "static/js/9.fa87d9cf.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/9.fa87d9cf.chunk.js.map",
+    "static/js/10.c39b8406.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/10.c39b8406.chunk.js",
+    "static/js/10.c39b8406.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/10.c39b8406.chunk.js.map",
+    "static/js/11.f4e04cfb.chunk.js": "/widget-registry-boilerplate/catalog/sandbox/static/js/11.f4e04cfb.chunk.js",
+    "static/js/11.f4e04cfb.chunk.js.map": "/widget-registry-boilerplate/catalog/sandbox/static/js/11.f4e04cfb.chunk.js.map",
+    "index.html": "/widget-registry-boilerplate/catalog/sandbox/index.html",
+    "static/css/main.40e26187.chunk.css.map": "/widget-registry-boilerplate/catalog/sandbox/static/css/main.40e26187.chunk.css.map",
+    "static/js/5.7ce5c2a6.chunk.js.LICENSE.txt": "/widget-registry-boilerplate/catalog/sandbox/static/js/5.7ce5c2a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5912e1da.js",
+    "static/js/5.7ce5c2a6.chunk.js",
+    "static/css/main.40e26187.chunk.css",
+    "static/js/main.d72fe67f.chunk.js"
+  ]
+}
