@@ -126,7 +126,7 @@
     "shortcode": "example-calculator",
     "version": "v1.0.0",
     "directoryUrl": "https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-calculator/v1",
-    "tarballUrl": "/tmp/widget-definitions-32WKo2/example-calculator.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-J0ydEu/example-calculator.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -135,8 +135,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-03-25T22:58:17.645Z",
-    "createdAt": "2021-03-25T22:58:17.645Z",
+    "updatedAt": "2021-03-25T23:08:59.922Z",
+    "createdAt": "2021-03-25T23:08:59.922Z",
     "availableTranslations": [
       "en"
     ],
