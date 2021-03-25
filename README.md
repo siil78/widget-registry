@@ -6,14 +6,14 @@ This project generates a static site with a catalog of all your widgets. This in
 to search and navigate widgets, as well as document your widgets in a beautiful website. Try out the
 examples.
 
-- [![](https://img.shields.io/badge/sandbox-catalog-success?style=flat-square&logo=html5)](https://js-widgets.github.io/widget-registry-boilerplate/catalog/sandbox)
-- [![](https://img.shields.io/badge/production-catalog-success?style=flat-square&logo=html5)](https://js-widgets.github.io/widget-registry-boilerplate/catalog/production)
+- [![](https://img.shields.io/badge/sandbox-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry-boilerplate/catalog/sandbox)
+- [![](https://img.shields.io/badge/production-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry-boilerplate/catalog/production)
 
 Below you will find the URL for the registry containing the JSON feed with the widget information.
 This is necessary when you are integrating the widgets with your CMS (like Drupal).
 
-- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json)
-- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/production/registry.json)
+- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json)
+- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry-boilerplate/widget-registry/production/registry.json)
 
 ## Getting started
 
@@ -85,7 +85,7 @@ If you want to include the widget to your site, use the CMS integrations like [D
 
 Alternatively, you can include it on your site manually for local testing:
 
-1. Open the [`registry.json`](https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json) from the registry and locate the JSON object related to your widget.
+1. Open the [`registry.json`](https://siil78.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json) from the registry and locate the JSON object related to your widget.
 2. Using the value of the `directoryUrl` attribute, append `/js/main.js` to it. For example:
 
 ```
@@ -94,4 +94,4 @@ http://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/
 
 3. Finally, add a new `<script>` tag on your HTML to load the previous URL.
 
-You can see this in action, and the [html markup](https://github.com/js-widgets/example-widget/blob/master/public/index.html), in the [demo page](https://js-widgets.github.io/example-widget/index.html) of the example widget.
+You can see this in action, and the [html markup](https://github.com/js-widgets/example-widget/blob/master/public/index.html), in the [demo page](https://siil78.github.io/example-widget/index.html) of the example widget.
