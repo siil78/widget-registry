@@ -3,7 +3,7 @@ module.exports = {
     remote: {
       origin: {
         // Overrides the default location of the registry location.
-        registryPath: '/widget-registry-boilerplate/widget-registry/production',
+        registryPath: '/widget-registry/widget-registry/production',
       },
     },
     filesystem: {

@@ -12,9 +12,9 @@ module.exports = {
     remote: {
       origin: {
         // Protocol and domain of the service that hosts the registry data.
-        baseUrl: 'https://js-widgets.github.io',
+        baseUrl: 'https://siil78.github.io',
         // The path within the server above where the registry is stored. Defaults to the sandbox value.
-        registryPath: '/widget-registry-boilerplate/widget-registry/sandbox',
+        registryPath: '/widget-registry/widget-registry/sandbox',
       },
       // By default the destination is the same as the origin, we overwrite the registry after compilation.
       destination: defer(function () {
