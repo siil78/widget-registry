@@ -6,14 +6,14 @@ This project generates a static site with a catalog of all your widgets. This in
 to search and navigate widgets, as well as document your widgets in a beautiful website. Try out the
 examples.
 
-- [![](https://img.shields.io/badge/sandbox-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry-boilerplate/catalog/sandbox)
-- [![](https://img.shields.io/badge/production-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry-boilerplate/catalog/production)
+- [![](https://img.shields.io/badge/sandbox-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry/catalog/sandbox)
+- [![](https://img.shields.io/badge/production-catalog-success?style=flat-square&logo=html5)](https://siil78.github.io/widget-registry/catalog/production)
 
 Below you will find the URL for the registry containing the JSON feed with the widget information.
 This is necessary when you are integrating the widgets with your CMS (like Drupal).
 
-- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json)
-- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry-boilerplate/widget-registry/production/registry.json)
+- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry/widget-registry/sandbox/registry.json)
+- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://siil78.github.io/widget-registry/widget-registry/production/registry.json)
 
 ## Getting started
 
